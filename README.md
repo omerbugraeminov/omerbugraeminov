@@ -9,9 +9,9 @@ I like figuring out how computers work from the bottom up, so I'm building my ow
 <a href="https://github.com/omerbugraeminov/venomcpu/tree/extended">
   <img src="https://raw.githubusercontent.com/omerbugraeminov/venomcpu/extended/docs/core.svg" alt="Venom Extended core" width="600">
 </a>
-- **Venom** (`main`): single-cycle CPU with 16 instructions, 8 registers, multi-cycle MUL/DIV
-- **Venom Extended** (`extended`): 5-stage pipeline with forwarding, load-use stall and branch flush, ~95 MHz Fmax
-- **Next:** cache and a general memory interface so anyone can attach external RAM, then **Venom Dual** (dual core)
+ **Venom** (`main`): single-cycle CPU with 16 instructions, 8 registers, multi-cycle MUL/DIV
+ **Venom Extended** (`extended`): 5-stage pipeline with forwarding, load-use stall and branch flush, ~95 MHz Fmax
+ **Next:** cache and a general memory interface so anyone can attach external RAM, then **Venom Dual** (dual core)
 ## 🛠️ Tools
  
 ![Verilog](https://img.shields.io/badge/Verilog-1f425f?style=for-the-badge)
