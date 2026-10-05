@@ -1,4 +1,4 @@
-# Hi, I'm Ömer 👋
+# Hi, I'm Ömer 
 
 I like figuring out how computers work from the bottom up, so I'm building my own CPU in Verilog.
 
